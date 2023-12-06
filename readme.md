@@ -1,3 +1,26 @@
+
+### issue with analysisin EHR
+
+On the basis of the development of electronic health records (EHRs), data analytics in health
+care is deemed as an essential process for accelerating the progress of clinical research (Hersh,
+2007; Jensen, Jensen & Brunak, 2012; Miotto & Weng, 2015). Enriched EHRs contain crucial
+information related to disease progression, and this information can help with decision
+making in the health care field including for treatment selection and disease diagnosis
+(Jensen, Jensen & Brunak, 2012; Raghupathi & Raghupathi, 2014). However, processing
+and analyzing EHR data are usually challenging because of their heterogeneity and sparsity.
+
+
+R package Analysis ready data
+dxpr: an R package for generating
+analysis-ready data from electronic health
+records—diagnoses and procedures
+file:///Users/ibook/Downloads/peerj-cs-520.pdf
+
+
+
+
+
+
 # Summarize the state of the science of patient-facing information visualizations of personal health data. Specifically, we aimed to investigate 
 
 (1) the types and components of patient-facing visualizations, and 
