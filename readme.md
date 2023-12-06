@@ -55,6 +55,8 @@ As such, there exists a major opportunity to pair advanced analytics with visual
  are the most common type of information currently offered in patient portals.  Nonetheless, MIDs for many other types of personal health data (symptoms and health behaviors)
  are equally important but more challenging to identify and convey to patients.
 
+
+# One ojvective could be " how to idetify  optimal formats for conveying the MIDs to patients/ ! clinicians ! .
  
 
 
